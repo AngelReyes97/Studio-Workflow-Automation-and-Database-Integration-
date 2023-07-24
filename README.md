@@ -11,7 +11,7 @@ Exports are basic CSV files to XLS files with timecode and thumbnail preview tha
 instructions:
 1. Install argparse using pip: pip install argparse
 2. Install pymongo using pip: pip install pymongo
-3. Install xlsxwriter using pip: pip install xlsxwriter\
+3. Install xlsxwriter using pip: pip install xlsxwriter
 4. Install MongoDB https://www.mongodb.com/
 5. Install FFmpeg to capture thumbnail timecode (not need unless you use --process -videoname-)
 
