@@ -15,4 +15,5 @@ instructions:
 4. Install MongoDB https://www.mongodb.com/
 5. Install FFmpeg to capture thumbnail timecode (not need unless you use --process -videoname-)
 
-Demo:https://youtu.be/apQBuAq_LKs
+Demo: 
+https://youtu.be/apQBuAq_LKs
